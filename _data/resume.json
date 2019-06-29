@@ -6,7 +6,7 @@
     "email": "ivan_zhang@pku.edu.cn",
     "phone": "UNDEFINED",
     "website": "http://yifan-zhang.cn/",
-    "summary": "Undergraduate student at Peking University.",
+    "summary": "Undergraduate student at Peking University",
     "location": {
       "address": "No. 5 Yiheyuan Road",
       "postalCode": "100871",
@@ -14,16 +14,7 @@
       "countryCode": "CN",
       "region": ""
     },
-    "profiles": [{
-      "network": "LinkedIn",
-      "username": "Ahmet Cecen",
-      "url": "https://www.linkedin.com/in/ahmet-cecen-1693b419"
-    },
-	{
-      "network": "Google+",
-      "username": "ahmetcecen",
-      "url": "https://plus.google.com/+AhmetCecen-GPlus"
-    }]
+    "profiles": []
   },
   "work": [],
   "education": [
