@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Yifan Zhang",
+    "label": "Undergraduate",
+    "picture": "https://avatars0.githubusercontent.com/u/47052365?s=460&v=4",
+    "email": "ivan_zhang@pku.edu.cn",
+    "phone": "UNDEFINED",
+    "website": "http://yifan-zhang.cn/",
+    "summary": "Undergraduate student at Peking University.",
+    "location": {
+      "address": "No. 5 Yiheyuan Road",
+      "postalCode": "100871",
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": ""
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "Ahmet Cecen",
+      "url": "https://www.linkedin.com/in/ahmet-cecen-1693b419"
+    },
+	{
+      "network": "Google+",
+      "username": "ahmetcecen",
+      "url": "https://plus.google.com/+AhmetCecen-GPlus"
+    }]
+  },
+  "work": [],
+  "education": [
+  {
+    "institution": "Peking University",
+    "area": "",
+    "studyType": "Bachelors",
+    "startDate": "09/2017",
+    "endDate": "07/2021",
+	"thesis": "",
+	"courses": [
+	"Analysis"
+	]
+  }],
+  "awards": [{
+    "title": "AWARD",
+    "date": "11/2018",
+    "awarder": "Scholarship",
+    "summary": "Scholarship"
+  },
+	     {
+    "title": "Olympiad",
+    "date": "11/2016",
+    "awarder": "Olympiad",
+    "summary": "Olympiad"
+  }],
+  "skills": [{
+    "name": "First",
+    "keywords": [
+      "alpha",
+      "beta",
+      "gamma",
+	  "delta"
+    ],
+	"level": [
+      "40",
+      "60",
+      "80",
+	  "100"
+    ]
+  },
+  {
+    "name": "Second",
+    "keywords": [
+      "epsilon",
+      "zeta",
+      "eta",
+	  "theta"
+    ],
+	"level": [
+      "40",
+      "60",
+      "80",
+	  "100"
+    ]
+  },
+  {
+    "name": "Third",
+    "keywords": [
+      "iota",
+      "kappa",
+      "lambda",
+	  "mu"
+    ],
+	"level": [
+      "40",
+      "60",
+      "80",
+	  "100"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Active | Fluent"
+  },
+  {
+    "name": "Mandarin",
+    "level": "Active | Fluent"
+  }],
+  "interests": [{
+    "name": "A",
+    "keywords": [
+      "alpha",
+	  "beta",
+	  "gamma"
+    ]
+},
+{
+    "name": "Other",
+    "keywords": [
+      "Omega"
+    ]
+}],
+  "references": [{
+    "name": "ALICE",
+    "reference": "BOB"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2018-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }]
+}
