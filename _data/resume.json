@@ -3,7 +3,7 @@
     "name": "Yifan Zhang",
     "label": "Undergraduate",
     "picture": "https://avatars0.githubusercontent.com/u/47052365?s=460&v=4",
-    "email": "ivan_zhang@pku.edu.cn",
+    "email": "yifzhang@pku.edu.cn",
     "website": "http://yifan-zhang.cn/",
     "summary": "Undergraduate student at Peking University, seeking Ph.D. position.",
     "location": {
@@ -29,16 +29,16 @@
 	]
   }],
   "awards": [{
-    "title": "AWARD",
+    "title": "Scholarship",
     "date": "11/2018",
     "awarder": "Scholarship",
-    "summary": "Scholarship"
+    "summary": "May 4th Scholarship"
   },
 	     {
     "title": "Olympiad",
     "date": "11/2016",
     "awarder": "Olympiad",
-    "summary": "Olympiad"
+    "summary": "Silver Medal, 33th Chinese Physics Olympiad"
   }],
   "skills": [{
     "name": "Programming Languages",
