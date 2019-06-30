@@ -43,46 +43,44 @@
   "skills": [{
     "name": "Programming Languages",
     "keywords": [
-      "alpha",
-      "beta",
-      "gamma",
-	  "delta"
+      "Python",
+      "C++",
+      "C",
+	  "Matlab"
     ],
 	"level": [
       "100",
-      "60",
-      "80",
+      "100",
+      "100",
 	  "100"
     ]
   },
   {
-    "name": "Machine Learning",
+    "name": "Libraries",
     "keywords": [
-      "epsilon",
-      "zeta",
-      "eta",
-	  "theta"
+      "Tensorflow",
+      "Pytorch",
+      "CUDA"
     ],
 	"level": [
-      "40",
-      "60",
-      "80",
-	  "100"
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "name": "Techniques",
     "keywords": [
-      "iota",
-      "kappa",
-      "lambda",
-	  "mu"
+      "Latex",
+      "Linux",
+      "Git",
+	    "Docker"
     ],
 	"level": [
-      "40",
-      "60",
-      "80",
-	  "100"
+      "100",
+      "100",
+      "100",
+	    "100"
     ]
   }],
   "languages": [{
