@@ -4,9 +4,8 @@
     "label": "Undergraduate",
     "picture": "https://avatars0.githubusercontent.com/u/47052365?s=460&v=4",
     "email": "ivan_zhang@pku.edu.cn",
-    "phone": "UNDEFINED",
     "website": "http://yifan-zhang.cn/",
-    "summary": "Undergraduate student at Peking University, seeking Ph.D. position",
+    "summary": "Undergraduate student at Peking University, seeking Ph.D. position.",
     "location": {
       "address": "No. 5 Yiheyuan Road",
       "postalCode": "100871",
@@ -21,7 +20,7 @@
   {
     "institution": "Peking University",
     "area": "",
-    "studyType": "Bachelors",
+    "studyType": "Bachelor of Science",
     "startDate": "09/2017",
     "endDate": "07/2021",
 	"thesis": "",
@@ -42,7 +41,7 @@
     "summary": "Olympiad"
   }],
   "skills": [{
-    "name": "First",
+    "name": "Programming Languages",
     "keywords": [
       "alpha",
       "beta",
@@ -50,14 +49,14 @@
 	  "delta"
     ],
 	"level": [
-      "40",
+      "100",
       "60",
       "80",
 	  "100"
     ]
   },
   {
-    "name": "Second",
+    "name": "Machine Learning",
     "keywords": [
       "epsilon",
       "zeta",
@@ -72,7 +71,7 @@
     ]
   },
   {
-    "name": "Third",
+    "name": "Techniques",
     "keywords": [
       "iota",
       "kappa",
